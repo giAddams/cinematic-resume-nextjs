@@ -8,6 +8,10 @@ Designed for developers and designers who want a high-end personal site that is:
 - fast to customize
 - free to deploy on GitHub Pages
 
+## Live Demo
+
+[https://amirho3inh.github.io/cinematic-resume-nextjs/](https://amirho3inh.github.io/cinematic-resume-nextjs/)
+
 ## Why This Project
 
 Most portfolio templates are static cards with little personality.  
