@@ -54,96 +54,74 @@ export const siteMeta = {
 };
 
 export const personal = {
-  name: "Amir Hashemi",
-  title: "Creative Frontend Engineer & Interactive Storyteller",
+  name: "Geraldine Addamo",
+  title: "Junior Full-Stack Developer / DevOps Engineer",
   location: "Finland / Remote",
-  heroKicker: "Creative Frontend Engineer",
-  heroHeadline: "I build premium interactive web experiences.",
-  heroStatement: "I design and develop modern, high-performance web experiences.",
-  aboutHeading: "I build digital products that feel clear, modern, and memorable.",
+  heroHeadline: "I am a Grit:Lab student focused on full-stack development and DevOps.",
+  heroStatement: "I build modern, reliable web applications and the systems that support them.",
+  aboutHeading: "I build practical digital products with full-stack and DevOps skills.",
   aboutParagraphs: [
-    "I am a frontend engineer focused on product quality, interaction detail, and performance. I turn complex ideas into interfaces that users understand in seconds.",
-    "My process is simple: define the story, design the system, and ship polished execution. The result is a product that looks premium and works reliably."
+    "I am a Grit:Lab student learning through hands-on full-stack development and DevOps work. I enjoy building solutions that connect clean interfaces with dependable backend systems.",
+    "My focus is on practical execution, clear structure, and reliable delivery. I like turning ideas into applications that are simple to use, easy to maintain, and ready to grow."
   ]
 };
 
 export const journey = [
   {
-    year: "2015 - 2016",
-    role: "Web Developer",
-    company: "Datam Company",
-    summary: "Designed and implemented a ticketing system",
-    impact: "• Designed and implemented a ticketing system for museums of a prominent cultural institution using PHP and Python."+
-    "\n• Developed controller programs for entry management."
-  },
-  {
-    year: "2017 - 2018",
-    role: "Web Administrator",
-    company: "Zarmesh Company",
-    summary: "Managed the company website and server infrastructure.",
-    impact: "• Designed the company website (zarmesh.com).\n• Provided support for a Linux-based website server.\n• Monitored and improved the site’s SEO and overall performance.\n• Ensured security and service monitoring using Zabbix.\n• Implemented site changes as needed."
-  },
-  {
-    year: "2020 - 2021",
-    role: "Web Developer",
-    company: "Zitel",
-    summary: "Contributed to the development of a cloud server sales system, CRM, and ticketing system.",
-    impact: "• Developed UI/UX for a cloud server sales system and CRM.\n• Designed UI/UX for a cloud server ticketing system."
-  },
-  {
-    year: "2023",
-    role: "Web Developer",
-    company: "Qame Company",
-    summary: "Contributed to the frontend development of The qame project and MorrowFood project.",
-    impact: "• Developed frontend of The qame project\n• Developed frontend of MorrowFood project"
-  },
-  {
-    year: "2011 - 2024",
-    role: "Senior Software Engineer",
-    company: "Pars Fanavaran Mobtaker (PFM)",
-    summary: "Directing full-stack immersive experiences from concept to deployment.",
-    impact: "• Designed and optimized a cooperative and union system for a leading social welfare organization (taavoni.mcls.gov.ir).\n• Developed and maintained the logging and monitoring system for 8 physical servers related to the education project and 1 physical server for the social welfare project.\n• Led the UI/UX design and implementation of a voice communication system for an education organization (seda.medu.ir).\n• Established a streaming and video conferencing system for the same organization."
+    year: "2021 - 2023",
+    role: "Back-Office Specialist",
+    company: "Foundever",
+    summary: "Managed customer accounts for OVO Energy Ltd.(Formerly Scottish and Southern Electricity)",
+    impact: "• Started in a billing role for OVO Energy (formerly Scottish and Southern Electric), where I collected customers' meter readings through inbound calls.\n• Handled incoming customer calls to record meter readings while also working on technical queries, where I was responsible for customer accounts and incident escalation.\n• Resolved customer billing issues and ensured accurate updates to customer accounts.\n• Provided back-office support with account related issues and customer account data, meeting end of day quota."
   }
 ];
 
 export const skills = [
   {
-    category: "Frontend Architecture",
+    category: "Core Languages",
     accent: "violet",
-    items: ["Next.js App Router", "React 19", "Tailwind Systems", "State Design", "Performance Budgets"]
+    items: ["Go", "JavaScript(React)", "Rust", "Java", "Python", "Bash"]
   },
   {
-    category: "Motion & Interaction",
+    category: "Infrastructure",
     accent: "cyan",
-    items: ["GSAP + ScrollTrigger", "Scene Choreography", "Parallax Systems", "Micro-Interaction Design", "3D Illusion Motion"]
+    items: ["AWS (EC2, ECS, ELB)", "SQL", "Terraform", "Docker", "Kubernetes", "Vagrant", "Ansible", "Git"]
   },
   {
-    category: "Product & Story",
+    category: "CI/CD",
     accent: "magenta",
-    items: ["Narrative UX", "Brand Storyboarding", "Experience Mapping", "Copy Rhythm", "Conversion Craft"]
+    items: ["GitLab CI", "GitHub Actions"]
   },
   {
-    category: "AI & Tooling",
+    category: "Security",
     accent: "amber",
-    items: ["LLM Product Integrations", "Prompt Workflows", "Creative Automation", "Rapid Prototyping", "Data-informed Iteration"]
+    items: ["SSH hardening", "UFW firewall", "JWT", "SSL/TLS", "Port management", "Cron automation"]
+  },
+  {
+    category: "Networking",
+    accent: "teal",
+    items: ["Cisco Packet Tracer", "DNS", "UTM", "HTTP/HTTPS", "IPv4/IPv6", "TCP/UDP"]
+  },
+  {
+    category: "Operating Systems",
+    accent: "lime",
+    items: ["macOS", "Linux", "Windows"]
   }
 ];
 
 export const education = [
   {
-    period: "2014 – 2018",
-    degree: "Bachelor's Degree, Computer Software Engineering",
-    institution: "Islamic Azad University of Tehran",
-    focus: "Full-stack development, system design, performance optimization",
-    note: "Completed comprehensive software engineering curriculum with a focus on scalable web applications."
+    period: "2022 – 2023",
+    degree: "Bachelor of Science in Mechatronics Engineering, undergraduate",
+    institution: "Saint Louis University",
+    note: "Completed first year of engineering studies. Coursework included Introduction to Programming, Data Structures, Computer-Aided Design, and basic electronics."
   },
   {
-    period: "2011 – 2014",
-    degree: "Computer Software Engineering",
-    institution: "University of Eyvanekey",
-    focus: "Full-stack development, system design, performance optimization",
-    note: "Completed comprehensive software engineering curriculum with a focus on scalable web applications."
-  }
+    period: "2018 – 2020",
+    degree: "Senior high school, STEM(Science, Technology, Engineering, Mathematics)",
+    institution: "University of the Cordilleras",
+    note: "Completed senior high school with a focus on STEM subjects. Coursework included advanced mathematics, physics, chemistry, biology, and introductory programming concepts."
+  } 
 ];
 
 export const projects = [

@@ -262,7 +262,7 @@ export default function Navigation() {
               onClick={() => handleJump(items[0]?.id || "hero")}
               className="display-font text-sm uppercase tracking-[0.28em] text-silver/90"
             >
-              A/H
+              G/A
             </button>
 
             <div className="hidden items-center gap-3 lg:flex">
