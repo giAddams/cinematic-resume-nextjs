@@ -1,57 +1,51 @@
 {
   "updatedAt": "2026-05-30T16:22:59.786Z",
-  "username": "amirho3inh",
+  "username": "giAddams",
   "profile": {
-    "login": "amirho3inh",
-    "bio": "Experienced PHP and frontend web developer with over 15 years of experience in designing and developing dynamic and responsive websites.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25774978?v=4",
-    "url": "https://github.com/amirho3inh",
-    "followers": 14,
+    "login": "giAddams",
+    "bio": "Junior Full Stack Developer, DevOps enthusiast, and always eager to learn and grow in the tech industry.",
+    "avatarUrl": "https://github.com/giAddams.png",
+    "url": "https://github.com/giAddams",
+    "followers": 13,
     "following": 16,
-    "publicRepos": 32
+    "publicRepos": 9
   },
   "pinnedRepos": [
     {
-      "name": "GolabiJs",
-      "description": "add feature to jquery",
+      "name": "bomberman-dom",
+      "description": "Multiplayer Bomberman-style game built without canvas or WebGL,",
       "language": "JavaScript",
-      "stars": 3,
-      "url": "https://github.com/amirho3inh/GolabiJs"
+      "url": "https://github.com/giAddams/bomberman-dom"
     },
     {
-      "name": "crypto-ai-analysis",
-      "description": "Cryptocurrency analysis based on news and user analysis",
-      "language": "Python",
-      "stars": 1,
-      "url": "https://github.com/amirho3inh/crypto-ai-analysis"
-    },
-    {
-      "name": "microsoft-graph-sharepoint-backup-scripts",
-      "description": "Bash-based Microsoft Graph tools to authenticate with app-only credentials and back up SharePoint files to local storage, with filtering, logging, and progress tracking.",
-      "language": "PowerShell",
-      "stars": 0,
-      "url": "https://github.com/amirho3inh/microsoft-graph-sharepoint-backup-scripts"
-    },
-    {
-      "name": "amirho3inh",
-      "description": "Config files for my GitHub profile.",
-      "language": "Mixed",
-      "stars": 0,
-      "url": "https://github.com/amirho3inh/amirho3inh"
-    },
-    {
-      "name": "wireguard-gaming-manager",
-      "description": "WireGuard Gaming Manager is a professional, menu-driven Bash script to install and manage a WireGuard server for gaming, with Full/Split tunnel profiles, QR exports, and client lifecycle management on Linux.",
-      "language": "Shell",
-      "stars": 0,
-      "url": "https://github.com/amirho3inh/wireguard-gaming-manager"
-    },
-    {
-      "name": "LemonToast",
-      "description": "Fully-featured toast notification system using pure JavaScript and TailwindCSS, with support for themes, animations, RTL, and action buttons.",
+      "name": "make-your-game",
+      "description": "A game implemented using vanilla JS/DOM and HTML only.",
       "language": "JavaScript",
-      "stars": 0,
-      "url": "https://github.com/amirho3inh/LemonToast"
+      "url": "https://github.com/giAddams/make-your-game"
+    },
+    {
+      "name": "ray-tracing",
+      "description": "A physically-based ray tracer written in Rust that renders 3D scenes with realistic lighting, shadows, and materials.",
+      "language": "Rust",
+      "url": "https://github.com/giAddams/ray-tracing"
+    },
+    {
+      "name": "deep-in-net",
+      "description": "Simulation of real-world networking environments using Cisco Packet Tracer.",
+      "language": "DevOps",
+      "url": "https://github.com/giAddams/deep-in-net"
+    },
+    {
+      "name": "0-shell",
+      "description": "A minimal Unix shell written in Rust.",
+      "language": "Rust",
+      "url": "https://github.com/giAddams/0-shell"
+    },
+    {
+      "name": "play-with-containers",
+      "description": "A containerized, multi-tier microservice architecture designed for inventory management and asynchronous billing processing.",
+      "language": "JavaScript",
+      "url": "https://github.com/giAddams/play-with-containers"
     }
   ]
 }
