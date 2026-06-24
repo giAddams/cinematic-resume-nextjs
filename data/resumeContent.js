@@ -266,7 +266,7 @@ export const podcasts = [
 ];
 
 export const githubProfile = {
-  username: "amirho3inh",
+  username: "giAddams",
   intro:
     "Open-source experiments around motion systems, frontend architecture, and performance tooling.",
 };
