@@ -46,12 +46,6 @@
       "description": "A physically-based ray tracer written in Rust that renders 3D scenes with realistic lighting, shadows, and materials.",
       "language": "Rust",
       "url": "https://github.com/giAddams/ray-tracing"
-    },
-    {
-      "name": "make-your-game",
-      "description": "A simple game engine built with JavaScript.",
-      "language": "JavaScript",
-      "url": "https://github.com/giAddams/make-your-game"
     }
   ]
 }
