@@ -1,9 +1,8 @@
 {
-  "updatedAt": "2026-05-30T16:22:59.786Z",
+  "updatedAt": "2026-06-24T16:48:49.737Z",
   "username": "giAddams",
   "profile": {
     "login": "giAddams",
-    "bio": "Junior Full Stack Developer, DevOps enthusiast, and always eager to learn and grow in the tech industry.",
     "avatarUrl": "https://github.com/giAddams.png",
     "url": "https://github.com/giAddams",
     "followers": 13,
@@ -13,13 +12,32 @@
   "pinnedRepos": [
     {
       "name": "bomberman-dom",
-      "description": "Multiplayer Bomberman-style game built without canvas or WebGL,",
+      "description": "Multiplayer Bomberman-style game built without canvas or WebGL, powered purely by the DOM and a custom JavaScript framework.",
       "language": "JavaScript",
       "url": "https://github.com/giAddams/bomberman-dom"
     },
     {
+      "name": "0-shell",
+      "description": "A minimal Unix shell written in Rust. It provides basic navigation, file operations, and built-in commands without spawning external processes or calling system binaries.",
+      "language": "Rust",
+      "url": "https://github.com/giAddams/0-shell"
+    },
+    {
+      "name": "deep-in-net",
+      "description": "Cryptocurrency analysis based on news and user analysis",
+      "language": "Devops",
+      "stars": 1,
+      "url": "https://github.com/giAddams/deep-in-net"
+    },
+    {
+      "name": "play-with-containers",
+      "description": "A containerized, multi-tier microservice architecture designed for inventory management and asynchronous billing processing.",
+      "language": "Python",
+      "url": "https://github.com/giAddams/play-with-containers"
+    },
+    {
       "name": "make-your-game",
-      "description": "A game implemented using vanilla JS/DOM and HTML only.",
+      "description": "A simple game engine built with JavaScript.",
       "language": "JavaScript",
       "url": "https://github.com/giAddams/make-your-game"
     },
@@ -28,24 +46,6 @@
       "description": "A physically-based ray tracer written in Rust that renders 3D scenes with realistic lighting, shadows, and materials.",
       "language": "Rust",
       "url": "https://github.com/giAddams/ray-tracing"
-    },
-    {
-      "name": "deep-in-net",
-      "description": "Simulation of real-world networking environments using Cisco Packet Tracer.",
-      "language": "DevOps",
-      "url": "https://github.com/giAddams/deep-in-net"
-    },
-    {
-      "name": "0-shell",
-      "description": "A minimal Unix shell written in Rust.",
-      "language": "Rust",
-      "url": "https://github.com/giAddams/0-shell"
-    },
-    {
-      "name": "play-with-containers",
-      "description": "A containerized, multi-tier microservice architecture designed for inventory management and asynchronous billing processing.",
-      "language": "JavaScript",
-      "url": "https://github.com/giAddams/play-with-containers"
     }
   ]
 }
